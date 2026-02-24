@@ -48,7 +48,6 @@ https://github.com/AiltonJ303/globalshop-ecommerce-analytics
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiltonJ303&layout=compact&theme=dark)
-
 ---
 
 ## 🔥 GitHub Streak
