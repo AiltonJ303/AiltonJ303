@@ -41,13 +41,14 @@ https://github.com/AiltonJ303/globalshop-ecommerce-analytics
 
 ## 📊 GitHub Stats
 
-![Ailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiltonJ303&show_icons=true&theme=dark)
+![Ailton's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AiltonJ303&show_icons=true&theme=dark)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiltonJ303&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AiltonJ303&layout=compact&theme=dark)
+
 ---
 
 ## 🔥 GitHub Streak
