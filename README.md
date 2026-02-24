@@ -37,7 +37,23 @@ https://github.com/AiltonJ303/globalshop-ecommerce-analytics
 - Power BI  
 - DAX  
 - Git & GitHub  
+---
 
+## 📊 GitHub Stats
+
+![Ailton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiltonJ303&show_icons=true&theme=dark)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AiltonJ303&layout=compact&theme=dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AiltonJ303&theme=dark)
 ---
 
 ## 📫 Connect With Me
