@@ -32,28 +32,27 @@ https://github.com/AiltonJ303/globalshop-ecommerce-analytics
 
 ## 🛠 Tech Stack
 
-- SQL  
-- Python (Pandas)  
-- Power BI  
-- DAX  
-- Git & GitHub  
+![SQL](https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1f6feb?style=for-the-badge&logo=python&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-1f6feb?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-1f6feb?style=for-the-badge&logo=microsoft&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f6feb?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AiltonJ303&theme=github_dark" />
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AiltonJ303&theme=github_dark" />
-
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AiltonJ303&theme=github_dark" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AiltonJ303&theme=github_dark" />
 </div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AiltonJ303&theme=dark)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=AiltonJ303&theme=github-dark)
 
 ## 📫 Connect With Me
 
